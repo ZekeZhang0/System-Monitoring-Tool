@@ -58,11 +58,6 @@ iii. Describe the functions in sentences, e.g. this function does this and that 
 
      
 
-### Include a flow chart or diagram of your program and corresponding functions' calls.
-
-
-<img width="771" height="571" alt="a1 drawio" src="https://github.com/user-attachments/assets/2c96545f-c083-4a27-a60c-b90ea514ee76" />
-
 
 ## Instructions in how to compile your code
 1.Ensure the file is in your current working directory.
